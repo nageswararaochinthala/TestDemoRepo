@@ -1,0 +1,133 @@
+/*css for header  */
+#header{
+ hight :100px;
+ width: 100%;
+ background-color: white;
+ font-family: serif;
+ font-size: 1cm;
+ font-style:normal;
+ text-align: center;
+ vertical-align: middle;
+  }
+
+/* css for header font */
+font{
+	color: Black;
+	margin-top: 50%;
+	font-size: 1.5cm;
+}
+
+/* css for fieldset */
+fieldset {
+	text-align: center;
+	background: silver;
+}
+
+/*  css for textbox label */
+.label1{
+color: #6495ed;
+font-weight: bold;
+font-size: 150%;
+
+}
+
+/* css for textbox  */
+.textField{ 
+border-radius: 10px;
+height: 1cm;
+width: 5cm
+}
+
+/* css for buttons(signIn,clear) */
+.button1{
+width:2cm; 
+height:1cm;
+font-size: large;
+float:right;
+border-radius: 5px;
+background-color:#6495ed;
+color: white;
+font-style: normal;
+font-weight: bolder;
+
+
+
+}
+
+/* css div after header */	
+#div2{
+padding: 100px 300px 300px 300px;
+border-radius:10px;
+}
+
+/*  */
+#div3{
+border-radius:10px;
+background: silver;
+}
+#table1 {
+	 cellspacing:10;
+	 
+}
+input {
+	font-size: 100%;
+	font-weight: bolder;
+	font-family: serif;
+}
+
+.validationMsg{ 
+
+
+	font-weight: bold;
+	color: red;
+
+}
+/* css for adminInvalidMsgDiv  */
+#adminInvalidMsgDiv{
+	
+	width: 20%;
+	height: 4%;
+	margin-left:40%;
+	/* background-color: lightBlue; */
+}
+
+/* css for message */
+#message{
+	
+	font-size: 20px;
+	color: blue;
+}
+
+/* css for go to attendance page Div */
+#attendanceDiv{
+	
+	width: 15%;
+	height: 3%;
+	margin-left: 85%;
+	margin-top: -3%;
+	/* background-color: lightgreen; */
+	
+	
+}
+
+/* css for attendanceButton */
+#attendanceButton{
+	
+	width:5cm; 
+    height:1cm;
+    font-size: 15px;
+    float:right;
+    border-radius: 5px;
+    background-color:lightblue;
+    /* color: white; */
+    font-style: normal;
+    font-weight: bolder;
+	
+}
+
+
+
+
+
+
+
