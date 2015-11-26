@@ -30,6 +30,7 @@ public class SecurityDAOImpl implements ISecurityDAO {
 
 		logger.info("in dao");
 
+		System.out.println("hello Nageshwar");
 		Session session = sessionFactory.openSession();
 
 		Criteria criteria = session.createCriteria(Admin.class);
